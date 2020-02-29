@@ -1,0 +1,18 @@
+
+
+	baseurl = "http://www.morihiromusic.com"
+	languageCode = "ja"
+	title = "Morihiro Music"
+	author = "Morihiro"
+	copyright = "Morihiro Music All rights reserved."
+	googleanalytics = "UA-12345678-9"
+	theme = "hugo-zen"
+
+	[params]
+	  logo      = "/images/morihiro.jpg"
+	  twitter   = "https://twitter.com/rakuishi07"
+	  facebook  = "https://www.facebook.com/ochiishikoichiro"
+	  github    = "https://github.com/rakuishi/"
+	  gitlab    = "https://gitlab.com/rakuishi/"
+	  email     = "rakuishi@gmail.com"
+

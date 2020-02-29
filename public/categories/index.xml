@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Morihiro Music</title>
+    <link>http://www.morihiromusic.com/categories/</link>
+    <description>Recent content in Categories on Morihiro Music</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>Morihiro Music All rights reserved.</copyright>
+    <lastBuildDate>Sun, 16 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.morihiromusic.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>morihiro-songs</title>
+      <link>http://www.morihiromusic.com/categories/morihiro-songs/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.morihiromusic.com/categories/morihiro-songs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cover-songs</title>
+      <link>http://www.morihiromusic.com/categories/cover-songs/</link>
+      <pubDate>Wed, 01 Jan 2020 11:24:15 +0000</pubDate>
+      
+      <guid>http://www.morihiromusic.com/categories/cover-songs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>voice-of-morihiro</title>
+      <link>http://www.morihiromusic.com/categories/voice-of-morihiro/</link>
+      <pubDate>Fri, 27 Dec 2019 00:47:31 +0000</pubDate>
+      
+      <guid>http://www.morihiromusic.com/categories/voice-of-morihiro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>live-video</title>
+      <link>http://www.morihiromusic.com/categories/live-video/</link>
+      <pubDate>Thu, 26 Dec 2019 12:28:59 +0000</pubDate>
+      
+      <guid>http://www.morihiromusic.com/categories/live-video/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
