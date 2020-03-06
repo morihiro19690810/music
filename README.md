@@ -24,9 +24,13 @@ https://rakuishi.com/archives/hugo-zen/
 
 ## コンテンツのビルド方法
 
+ビルド時に hugo-zen テンプレートが必要。hugo-zen テンプレートの git リポジトリから clone して使用する
 hugo コマンドの実行により、public/ ディレクトリにデプロイ用のコンテンツ一式がビルドされる
 
 ```
+$ cd themes/
+$ git clone https://github.com/rakuishi/hugo-zen.git
+$ cd -
 $ hugo
 ```
 
@@ -38,4 +42,4 @@ $ hugo
 
 - コンテンツから mp3 ファイルを分離
 - アクセス制限対象コンテンツ (basic認証配下)の提供方法を検討
- 
+
