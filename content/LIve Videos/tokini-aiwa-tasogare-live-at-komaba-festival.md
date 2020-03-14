@@ -1,6 +1,6 @@
 ---
 title: 時に愛は　(Tasogare Live at Komaba Festival)
-date: 1991-11-23T21:50:17+00:00
+date: 1991-11-23T00:00:00+09:00
 categories:
   - live-video
 ---

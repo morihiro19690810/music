@@ -1,6 +1,6 @@
 ---
 title: Chaucolat Chaud in Kita-Aoyama (2019)
-date: 2019-12-27T00:47:31+00:00
+date: 2019-12-27T00:00:00+09:00
 Categories:
  - voice-of-morihiro
 ---

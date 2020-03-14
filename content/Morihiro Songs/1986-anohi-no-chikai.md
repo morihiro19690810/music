@@ -1,6 +1,6 @@
 ---
 title: あの日の誓い (1986 Original Version)
-date: 1986-04-01T01:28:54+00:00
+date: 1986-04-01T00:00:00+09:00
 categories:
   - morihiro-songs
 ---

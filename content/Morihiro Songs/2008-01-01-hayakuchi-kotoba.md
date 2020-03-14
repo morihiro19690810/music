@@ -1,6 +1,6 @@
 ---
 title: 早口言葉
-date: 2008-01-01T01:44:48+00:00
+date: 2008-01-01T00:00:00+09:00
 categories:
   - morihiro-songs
 

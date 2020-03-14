@@ -1,6 +1,6 @@
 ---
 title: Ghost Town Factory
-date: 2004-01-01T14:59:46+00:00
+date: 2004-01-01T00:00:00+09:00
 categories:
   - morihiro-songs
 ---

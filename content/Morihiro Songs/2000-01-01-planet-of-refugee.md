@@ -1,6 +1,6 @@
 ---
 title: Planet of Refugee
-date: 2000-01-01T04:04:37+00:00
+date: 2000-01-01T00:00:00+09:00
 categories:
   - morihiro-songs
 

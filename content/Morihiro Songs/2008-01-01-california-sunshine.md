@@ -1,6 +1,6 @@
 ---
 title: California Sunshine
-date: 2008-01-01T14:24:55+00:00
+date: 2008-01-01T00:00:00+09:00
 categories:
   - morihiro-songs
 ---

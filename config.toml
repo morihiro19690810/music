@@ -8,6 +8,8 @@
 	googleanalytics = "UA-12345678-9"
 	theme = "hugo-zen"
 
+
+
 	[params]
 	  logo      = "/images/morihiro.jpg"
 	  twitter   = "https://twitter.com/rakuishi07"
@@ -15,4 +17,7 @@
 	  github    = "https://github.com/rakuishi/"
 	  gitlab    = "https://gitlab.com/rakuishi/"
 	  email     = "rakuishi@gmail.com"
+	
+
+	  
 

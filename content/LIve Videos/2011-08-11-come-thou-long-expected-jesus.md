@@ -1,6 +1,6 @@
 ---
 title: Come, Thou Long Expected Jesus (Mitaka Evangelical Church)
-date: 2011-08-11T04:26:49+00:00
+date: 2011-08-11T00:00:00+09:00
 categories:
   - live-video
 ---

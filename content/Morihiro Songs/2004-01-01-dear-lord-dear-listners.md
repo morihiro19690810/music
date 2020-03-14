@@ -1,6 +1,6 @@
 ---
 title: Dear Lord, Dear Listners
-date: 2004-01-01T03:56:58+00:00
+date: 2004-01-01T00:00:00+09:00
 categories:
   - morihiro-songs
 ---

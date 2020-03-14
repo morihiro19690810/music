@@ -1,6 +1,6 @@
 ---
 title: Love Theme from St. Elmo’s Fire
-date: 2014-07-27T05:24:37+00:00
+date: 2014-07-27T00:00:00+09:00
 categories:
   - cover-songs
 ---

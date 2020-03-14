@@ -1,6 +1,6 @@
 ---
 title: Greensleeves on Stratocaster
-date: 2015-09-22T01:23:52+00:00
+date: 2015-09-22T00:00:00+09:00
 categories:
   - cover-songs
 ---

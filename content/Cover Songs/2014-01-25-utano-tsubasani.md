@@ -1,6 +1,6 @@
 ---
 title: 歌の翼に(Rock Version)
-date: 2014-01-25T01:39:30+00:00
+date: 2014-01-25T00:00:00+09:00
 categories:
   - cover-songs
 ---

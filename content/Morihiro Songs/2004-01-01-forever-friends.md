@@ -1,6 +1,6 @@
 ---
 title: Forever Friends
-date: 2004-01-01T10:51:33+00:00
+date: 2004-01-01T00:00:00+09:00
 categories:
   - morihiro-songs
 ---

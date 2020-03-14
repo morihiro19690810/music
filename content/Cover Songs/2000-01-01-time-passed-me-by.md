@@ -1,6 +1,6 @@
 ---
 title: Time Passed Me By
-date: 2000-01-01T04:09:55+00:00
+date: 2000-01-01T00:00:00+09:00
 categories:
   - cover-songs
 ---

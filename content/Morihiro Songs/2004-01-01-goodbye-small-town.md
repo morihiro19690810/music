@@ -1,6 +1,6 @@
 ---
 title: Goodbye Small Town
-date: 2004-01-01T05:55:53+00:00
+date: 2004-01-01T00:00:00+09:00
 categories:
   - morihiro-songs
 ---

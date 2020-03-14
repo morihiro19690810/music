@@ -1,6 +1,6 @@
 ---
 title: 思いのままに　(Tasogare Live at Komaba Festival)
-date: 1991-11-23T22:02:59+00:00
+date: 1991-11-23T00:00:00+09:00
 categories:
   - live-video
 ---

@@ -1,6 +1,6 @@
 ---
 title: Can You Feel the Love Tonight (The Lion King)
-date: 2009-05-10T12:28:59+00:00
+date: 2009-05-10T00:00:00+09:00
 categories:
   - live-video
 ---

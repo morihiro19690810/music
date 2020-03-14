@@ -1,6 +1,6 @@
 ---
 title: ワインの匂い(Tasogare Live at Yotsuya Four Valley)
-date: 1991-06-21T22:06:56+00:00
+date: 1991-06-21T00:00:00+09:00
 categories:
   - live-video
 ---
