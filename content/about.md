@@ -1,6 +1,6 @@
 ---
 title: 'Morihiro Musicについて'
-date: 2015-08-10T11:31:05+00:00
+date: 2015-08-10T00:00:00+09:00
 categories:
  - voice-of-morihiro
 ---

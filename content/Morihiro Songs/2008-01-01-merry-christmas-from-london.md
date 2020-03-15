@@ -1,6 +1,6 @@
 ---
 title: Merry Christmas from London
-date: 2008-01-01T04:38:14+00:00
+date: 2008-01-01T00:00:00+09:00
 categories:
   - morihiro-songs
 ---

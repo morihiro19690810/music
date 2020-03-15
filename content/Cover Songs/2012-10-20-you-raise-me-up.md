@@ -1,6 +1,6 @@
 ---
 title: You Raise Me Up
-date: 2012-10-20T05:21:49+00:00
+date: 2012-10-20T00:00:00+09:00
 categories:
   - cover-songs
 ---

@@ -1,6 +1,6 @@
 ---
 title: 四・字・熟・語
-date: 2008-01-01T00:50:03+00:00
+date: 2008-01-01T00:00:00+09:00
 categories:
   - morihiro-songs
 ---

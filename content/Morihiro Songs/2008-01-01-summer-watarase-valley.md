@@ -1,6 +1,6 @@
 ---
 title: Summer, Watarase Valley
-date: 2008-01-01T13:05:14+00:00
+date: 2008-01-01T00:00:00+09:00
 categories:
   - morihiro-songs
 

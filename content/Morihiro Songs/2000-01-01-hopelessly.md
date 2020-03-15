@@ -1,6 +1,6 @@
 ---
 title: Hopelessly
-date: 2000-01-01T09:59:55+00:00
+date: 2000-01-01T00:00:00+09:00
 categories:
   - morihiro-songs
 ---

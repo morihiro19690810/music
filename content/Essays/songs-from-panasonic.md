@@ -1,6 +1,6 @@
 ---
 title: Songs from Panasonic(1994)
-date: 1994-04-16T00:51:15+00:00
+date: 1994-04-16T00:00:00+09:00
 Categories:
  - voice-of-morihiro
 ---

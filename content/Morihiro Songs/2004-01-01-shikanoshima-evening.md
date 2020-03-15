@@ -1,6 +1,6 @@
 ---
 title: Shikanoshima Evening
-date: 2004-01-01T09:52:35+00:00
+date: 2004-01-01T00:00:00+09:00
 categories:
   - morihiro-songs
 

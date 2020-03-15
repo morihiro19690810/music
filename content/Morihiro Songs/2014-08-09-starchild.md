@@ -1,6 +1,6 @@
 ---
 title: Starchild
-date: 2014-08-09T01:31:28+00:00
+date: 2014-08-09T00:00:00+09:00
 categories:
   - morihiro-songs
 

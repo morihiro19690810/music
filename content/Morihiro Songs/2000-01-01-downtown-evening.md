@@ -1,6 +1,6 @@
 ---
 title: Downtown Evening
-date: 2000-01-01T10:00:07+00:00
+date: 2000-01-01T00:00:00+09:00
 categories:
   - morihiro-songs
 ---

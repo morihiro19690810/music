@@ -1,6 +1,6 @@
 ---
 title: After The Dream Has Gone (My Life Still Goes On)
-date: 2019-06-23T13:32:23+00:00
+date: 2019-06-23T00:00:00+09:00
 categories:
   - morihiro-songs
 ---

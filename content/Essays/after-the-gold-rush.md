@@ -1,6 +1,6 @@
 ---
 title: After the Gold Rush(2001-2004)
-date: 2004-12-16T00:47:31+00:00
+date: 2004-12-16T00:00:00+09:00
 Categories:
  - voice-of-morihiro
 ---

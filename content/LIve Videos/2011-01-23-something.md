@@ -1,6 +1,6 @@
 ---
 title: Something's Coming (West Side Story)
-date: 2011-01-23T12:28:59+00:00
+date: 2011-01-23T00:00:00+09:00
 categories:
   - live-video
 ---

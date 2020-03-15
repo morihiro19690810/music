@@ -1,6 +1,6 @@
 ---
 title: Cloudage Journey
-date: 2019-07-09T00:32:23+00:00
+date: 2019-07-09T00:00:00+09:00
 categories:
   - morihiro-songs
 ---

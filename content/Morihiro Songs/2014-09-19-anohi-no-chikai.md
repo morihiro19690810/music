@@ -1,6 +1,6 @@
 ---
 title: あの日の誓い (2014 Version)
-date: 2014-09-19T01:28:54+00:00
+date: 2014-09-19T00:00:00+09:00
 categories:
   - morihiro-songs
 ---

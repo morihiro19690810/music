@@ -1,6 +1,6 @@
 ---
 title: ソーラン節
-date: 2015-11-02T01:20:25+00:00
+date: 2015-11-02T00:00:00+09:00
 categories:
   - cover-songs
 ---

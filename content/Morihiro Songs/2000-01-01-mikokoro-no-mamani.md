@@ -1,6 +1,6 @@
 ---
 title: みこころのままに
-date: 2000-01-01T05:03:32+00:00
+date: 2000-01-01T00:00:00+09:00
 categories:
   - morihiro-songs
 ---

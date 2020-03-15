@@ -1,6 +1,6 @@
 ---
 title: 川の流れは
-date: 2000-01-01T07:02:07+00:00
+date: 2000-01-01T00:00:00+09:00
 categories:
   - morihiro-songs
 ---

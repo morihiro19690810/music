@@ -1,6 +1,6 @@
 ---
 title: My Favorite Artists
-date: 2019-07-22T11:31:05+00:00
+date: 2019-07-22T00:00:00+09:00
 categories:
  - voice-of-morihiro
 ---

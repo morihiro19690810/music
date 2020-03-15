@@ -1,6 +1,6 @@
 ---
 title: Dear Marklogic (XQuery is the Language of Love)
-date: 2014-02-04T12:28:59+00:00
+date: 2014-02-04T00:00:00+09:00
 categories:
   - live-video
 ---

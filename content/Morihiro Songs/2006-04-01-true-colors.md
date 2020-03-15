@@ -1,6 +1,6 @@
 ---
 title: True Colors (Single Version)
-date: 2006-04-01T10:27:54+00:00
+date: 2006-04-01T00:00:00+09:00
 categories:
   - morihiro-songs
 ---

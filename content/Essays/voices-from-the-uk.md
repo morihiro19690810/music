@@ -1,6 +1,6 @@
 ---
 title: Voices from the U.K.(1995)
-date: 1995-12-31T00:50:18+00:00
+date: 1995-12-31T00:00:00+09:00
 Categories:
  - voice-of-morihiro
 ---

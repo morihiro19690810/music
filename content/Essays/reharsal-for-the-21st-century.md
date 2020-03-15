@@ -1,6 +1,6 @@
 ---
 title: Rehearsal for the 21st Century(1999-2000)
-date: 2000-06-16T00:48:48+00:00
+date: 2000-06-16T00:00:00+09:00
 Categories:
  - voice-of-morihiro
 ---
